@@ -2,6 +2,7 @@
 
 int main() {
     // 输出字符串到控制台
+    int a = 1;
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
